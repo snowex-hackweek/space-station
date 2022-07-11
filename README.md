@@ -65,3 +65,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
 ## Contributors
 
  * [Micah Sandusky](https://github.com/micah-prime)
+ * [Wyatt Reis](https://github.com/wyattreis)
