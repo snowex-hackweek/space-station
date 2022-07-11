@@ -72,3 +72,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
  * [Daniel Hogan](https://github.com/dlhogan97)
  * [Angela Rienzo](https://github.com/arienzo)
  * [Jordan Beer](https://github.com/Jordanmbeer)
+ * [Beau Uriona](https://github.com/beautah)
