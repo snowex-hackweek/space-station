@@ -67,3 +67,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
  * [Micah Sandusky](https://github.com/micah-prime)
  * [Wyatt Reis](https://github.com/wyattreis)
  * [Ross Palomaki](https://github.com/rpalomaki)
+ * [Dylan Craaybeek](https://github.com/dcraaybeek)
