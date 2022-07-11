@@ -70,3 +70,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
  * [Dylan Craaybeek](https://github.com/dcraaybeek)
  * [Ibrahim Alabi](https://github.com/Ibrahim-Ola)
  * [Daniel Hogan](https://github.com/dlhogan97)
+ * [Angela Rienzo](https://github.com/arienzo)
