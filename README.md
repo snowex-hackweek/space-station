@@ -1,6 +1,6 @@
 # Space Station
 
-`Space on Humanoids!` - Ross Polmaki
+`Space on, Humanoids!` - Ross Palomaki
 
 Thanks to Lindsey Heagey and Joachim Meyer for the template!
 
