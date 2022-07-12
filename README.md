@@ -1,6 +1,8 @@
 # Space Station
 
-This is as an example on how teams can structure their project repositories. Thanks to Lindsey Heagey and Joachim Meyer for the template!
+`Space on, Humanoids!` - Ross Palomaki
+
+Thanks to Lindsey Heagey and Joachim Meyer for the template!
 
 ## Files
 
@@ -73,3 +75,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
  * [Angela Rienzo](https://github.com/arienzo)
  * [Jordan Beer](https://github.com/Jordanmbeer)
  * [Beau Uriona](https://github.com/beautah)
+ * [Micah Johnson](https://github.com/micahjohnson150)
