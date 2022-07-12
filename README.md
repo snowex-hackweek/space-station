@@ -73,3 +73,4 @@ Optional: links to manuscripts or technical documents for more in-depth analysis
  * [Angela Rienzo](https://github.com/arienzo)
  * [Jordan Beer](https://github.com/Jordanmbeer)
  * [Beau Uriona](https://github.com/beautah)
+ * [Micah Johnson](https://github.com/micahjohnson150)
