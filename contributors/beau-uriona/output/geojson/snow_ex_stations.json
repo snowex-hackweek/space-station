@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "site_name": "Grand Mesa", "site_id": "2C12" }, "geometry": { "type": "Point", "coordinates": [ -108.200767019168708, 39.053238657052709 ] } },
+{ "type": "Feature", "properties": { "site_name": "Boise River Basin", "site_id": "Banner Open" }, "geometry": { "type": "Point", "coordinates": [ -109.236057626489227, 44.304470835533579 ] } },
+{ "type": "Feature", "properties": { "site_name": "East River", "site_id": "Open 6" }, "geometry": { "type": "Point", "coordinates": [ -112.980001120932045, 38.926631562443148 ] } },
+{ "type": "Feature", "properties": { "site_name": "American River Basin", "site_id": "Caples Lake" }, "geometry": { "type": "Point", "coordinates": [ -108.041873303386453, 38.710331246097049 ] } },
+{ "type": "Feature", "properties": { "site_name": "Cameron Pass", "site_id": "Joe Wright" }, "geometry": { "type": "Point", "coordinates": [ -111.89342193064121, 40.524013041838217 ] } },
+{ "type": "Feature", "properties": { "site_name": "Fraser Experimental Forest", "site_id": "JPL 1" }, "geometry": { "type": "Point", "coordinates": [ -111.882791636109857, 39.9056436746353 ] } },
+{ "type": "Feature", "properties": { "site_name": "Jemez River", "site_id": "BA Flux Tower" }, "geometry": { "type": "Point", "coordinates": [ -112.531800415354027, 35.888581466685693 ] } },
+{ "type": "Feature", "properties": { "site_name": "Little Cottonwood Canyon", "site_id": "Alta Collins" }, "geometry": { "type": "Point", "coordinates": [ -111.629972366210424, 40.572103443583799 ] } },
+{ "type": "Feature", "properties": { "site_name": "Mammoth Lakes", "site_id": "CUES" }, "geometry": { "type": "Point", "coordinates": [ -113.029071658002309, 37.643270658165164 ] } },
+{ "type": "Feature", "properties": { "site_name": "Niwot Ridge", "site_id": "C1" }, "geometry": { "type": "Point", "coordinates": [ -111.546161650407825, 40.0331732971298 ] } },
+{ "type": "Feature", "properties": { "site_name": "Sagehen Creek", "site_id": "Forest" }, "geometry": { "type": "Point", "coordinates": [ -108.242112287777644, 39.429681618426869 ] } },
+{ "type": "Feature", "properties": { "site_name": "Senator Beck", "site_id": "Senator Beck" }, "geometry": { "type": "Point", "coordinates": [ -113.72623049211937, 37.907022000944302 ] } }
+]
+}
