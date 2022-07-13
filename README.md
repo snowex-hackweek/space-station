@@ -1,4 +1,4 @@
-# Space Station
+f# Space Station
 
 `Space on, Humanoids!` - Ross Palomaki
 
@@ -38,11 +38,11 @@ List all participants on the project. Choose one team member to act as project l
 
 ### The problem
 
-What problem are you going to explore? Provide a few sentences. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context.
+Identifying spatial variabilty of height of snow and snow water equivalence of the surrounding snowpack in relation to the Wx stations.
 
 ### Application Example
 
-List one specific application of this work.
+Identifying which remote weather stations have more representative snow measurements with respect to their surrounding areas.
 
 ### Sample data
 
