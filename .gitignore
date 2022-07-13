@@ -111,4 +111,7 @@ venv.bak/
 *.tif
 
 # PyCharm
-.idea
+.ide
+
+# Files
+./contributors/dlhogan/ACT/
