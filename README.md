@@ -2,8 +2,6 @@ f# Space Station
 
 `Space on, Humanoids!` - Ross Palomaki
 
-Thanks to Lindsey Heagey and Joachim Meyer for the template!
-
 ## Files
 
 * `.gitignore`
@@ -19,7 +17,7 @@ Thanks to Lindsey Heagey and Joachim Meyer for the template!
 Each team member has it's own folder under contributors, where they can work on their contribution. Having a dedicated folder for each person helps to prevent conflicts when merging with the main branch.
 
 ### `notebooks`
-Notebooks that are considered delivered results for the project should go in here.
+Notebooks that are considered delivered results for the project here.
 
 ### `scripts`
 Helper utilities that are shared with the team
@@ -28,13 +26,9 @@ Helper utilities that are shared with the team
 
 ## Project Summary
 
-### Project Title
+### Space Station
 
-Brief title describing the proposed work.
-
-### Collaborators on this project
-
-List all participants on the project. Choose one team member to act as project lead, and identify one hackweek organizer as the data science lead.
+What does spatial variability look like around a snow telemetry station?
 
 ### The problem
 
@@ -46,11 +40,10 @@ Identifying which remote weather stations have more representative snow measurem
 
 ### Sample data
 
-If you already have some data to explore, briefly describe it here (size, format, how to access).
-
-### Specific Questions
-
-List the specific tasks you want to accomplish or research questions you want to answer.
+- SNOTEL Network
+- SnowEx Point data
+- SnowEx Lidar data
+- MesoWest Wx station network
 
 ### Existing methods
 
